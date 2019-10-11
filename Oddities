@@ -1,3 +1,4 @@
+/* https://open.kattis.com/problems/oddities */
 #include <iostream>
 
 using namespace std;
