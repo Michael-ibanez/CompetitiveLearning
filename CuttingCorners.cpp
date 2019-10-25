@@ -1,3 +1,4 @@
+/* https://open.kattis.com/problems/cuttingcorners */
 #include <iostream>
 #include <cmath>
 #include <vector>
