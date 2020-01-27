@@ -1,3 +1,4 @@
+/* https://open.kattis.com/problems/thinkingofanumber */
 #include <iostream>
 #include <vector>
 #include <algorithm>
